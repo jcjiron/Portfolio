@@ -58,7 +58,7 @@ const FrameComponent: FunctionComponent<FrameComponentType> = ({
                   Email
                 </div>
                 <div className="self-stretch relative text-sm leading-[160%] text-dimgray [display:-webkit-inline-box] overflow-hidden text-ellipsis [-webkit-line-clamp:3] [-webkit-box-orient:vertical] whitespace-nowrap">
-                  contact@juancarlos.com
+                  jironjuarezjuan@outlook.com
                 </div>
               </div>
             </div>
@@ -73,7 +73,7 @@ const FrameComponent: FunctionComponent<FrameComponentType> = ({
                   Phone
                 </div>
                 <div className="self-stretch relative text-sm leading-[160%] text-dimgray [display:-webkit-inline-box] overflow-hidden text-ellipsis [-webkit-line-clamp:3] [-webkit-box-orient:vertical]">
-                  +1 (555) 123-4567
+                  +52 (55) 836-79908
                 </div>
               </div>
             </div>
@@ -89,7 +89,7 @@ const FrameComponent: FunctionComponent<FrameComponentType> = ({
                   Location
                 </div>
                 <div className="self-stretch relative text-sm leading-[160%] text-dimgray [display:-webkit-inline-box] overflow-hidden text-ellipsis [-webkit-line-clamp:3] [-webkit-box-orient:vertical]">
-                  123 Web St, Tech City, Country
+                  Mexico City, Mexico
                 </div>
               </div>
             </div>
